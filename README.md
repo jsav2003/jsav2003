@@ -4,7 +4,7 @@
   <img alt="jsav2003's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-## Hi there 👋
+
 
 <!--
 **jsav2003/jsav2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
